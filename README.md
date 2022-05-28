@@ -1,7 +1,7 @@
 # FlightCheckInnSystem
 
 This is Flight Check in Demo App using JMS and AMQ.
-It shows basic functionality off JMS as well as AMQ demonstrating P2P Messaging.
+It shows basic functionality of JMS as well as AMQ demonstrating P2P Messaging as well.
 
 Steps to run:-
 1) Clone the code
